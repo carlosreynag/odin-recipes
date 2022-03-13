@@ -9,14 +9,15 @@
 .title{
   font-size: 52px;
   color: black;
-  background-color: red;
   font-style: italic;
   font-weight: bold;
   text-align: center;
+  font-family: Courier, "Lucida Console", monospace
 }
 .unordered{
   text-align: center;
   font-size: 48px;
+  font-family: Courier, "Lucida Console", monospace
 }
 
 .subtitle{
@@ -24,19 +25,23 @@
   font-size: 34px;
   font-weight: bold;
   font-style: italic;
+  font-family: Courier, "Lucida Console", monospace
 }
 
 .paragraph {
   text-align: center;
   font-size: 20px;
+  font-family: Courier, "Lucida Console", monospace
 }
 
 .ingredients {
   text-align: center;
   font-size: 20px;
+  font-family: Courier, "Lucida Console", monospace
 }
 
 .steps {
   font-size: 20px;
   text-align: center;
+  font-family: Courier, "Lucida Console", monospace
 }
