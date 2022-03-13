@@ -1,8 +1,20 @@
 .pictures{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
   height: auto;
-  width: 400px;
+  width: 800px;
 }
 
+.title{
+  font-size: 52px;
+  color: black;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
 .unordered{
+  text-align: center;
   font-size: 48px;
 }
+
